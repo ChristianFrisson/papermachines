@@ -29,9 +29,19 @@
         </button><p>
         <div id="searches">
         </div>
+		<br />
+        <div id="horizon-controls">
+
+            Horizon mode: <label for="horizon-mode-mirror"><input name="mode" type="radio" value="mirror" id="horizon-mode-mirror" checked /> Mirror</label>
+            <label for="horizon-mode-offset"><input name="mode" type="radio" value="offset" id="horizon-mode-offset"/> Offset</label>
+
+            <span id="horizon-bands">Band(s): <span id="horizon-bands-value">1</span> <button class="first">&#x2212;</button><button class="last">+</button></span>
+
+        </div>
     </div>
     <p>
     </div>
+    <script type="text/javascript" src="support/horizon.js"></script>
     <script type="text/javascript" src="support/stream.js"></script>
   </body>
 </html>
