@@ -64,6 +64,7 @@ Special thanks to [Matthew Battles](http://metalab.harvard.edu/people/) for prov
 * [DBpedia Spotlight](https://github.com/dbpedia-spotlight/dbpedia-spotlight)
 * [Europeana Geoparser](http://europeana-geo.isti.cnr.it/geoparser/geoparsing)
 * [Firefox](http://www.firefox.com/)
+* [heatmap.js](https://github.com/pa7/heatmap.js)
 * [html5slider](https://github.com/fryn/html5slider)
 * [MALLET](http://mallet.cs.umass.edu)
 * [PTStemmer](http://code.google.com/p/ptstemmer/)
